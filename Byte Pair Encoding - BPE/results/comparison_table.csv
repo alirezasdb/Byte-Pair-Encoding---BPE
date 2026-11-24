@@ -1,0 +1,7 @@
+﻿language,text,custom_bpe_tokens,gpt4_tokens,token_difference,difference_percent,custom_bpe_time_ms,gpt4_time_ms
+English,Once upon a time there was a little cat.,19,10,9,90.0,0.76425,0.005714
+English,The cat liked to play with a ball.,19,9,10,111.11,0.60113,0.005499
+English,Machine learning is an interesting subject.,30,7,23,328.57,0.903468,0.004775
+Persian,سلام، حال شما چطور است؟,16,17,-1,-5.88,0.486574,0.007424
+Persian,پردازش زبان طبیعی یکی از شاخه‌های هوش مصنوعی است.,31,40,-9,-22.5,0.994197,0.011066
+Persian,یادگیری ماشین به کامپیوترها امکان یادگیری از داده‌ها را می‌دهد.,38,45,-7,-15.56,1.217115,0.013475
